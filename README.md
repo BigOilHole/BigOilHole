@@ -1,5 +1,7 @@
 <p align="center">
   <img src="o9mrhp.jpg" width=75% height=auto>
+  <img src="rinpoland.webp" width=75% height=auto>
+  <img src="redhat.gif" width=75% height=auto>
 </p>
 
 <!--
